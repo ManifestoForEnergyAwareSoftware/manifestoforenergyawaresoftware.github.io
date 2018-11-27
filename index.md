@@ -8,8 +8,9 @@ The manifesto will be available once it's accepted.
 2. [Lago, P., Kazman, R., Meyer N., Morisio, M., Müller, H., Paulisch, F., Scanniello, G.,  Penzenstadler, B.,  and Zimmermann, O..  Exploring initial challenges for green software engineering:  summary of the first GREENS workshop, at ICSE 2012.ACM SIGSOFT Software Engineering Notes, 38(1):31–33, 2013.](http://greens.cs.vu.nl)
 3. [Becker, C., Chitchyan, R., Duboc, L., Easterbrook, S., Penzenstadler, B., Seyff, N. and Venters, C., C. C. (2015, May). Sustainability design and software: The Karlskrona Manifesto. In Proceedings of the 37th International Conference on Software Engineering-Volume 2 (pp. 467-476). IEEE Press.](https://arxiv.org/abs/1410.6968)
 4. [Pinto, G., & Castor, F. (2017). Energy efficiency: a new concern for application software developers. Communications of the ACM, 60(12), 68-75.](https://doi.org/10.1145/3154384)
-5. [Lago, P., Koçak, S. A., Crnkovic, I., & Penzenstadler, B. (2015). Framing sustainability as a property of software quality. Communications of the ACM, 58(10), 70-78.](https://research.vu.nl/en/publications/framing-sustainability-as-a-property-of-software-quality)
-6. [Pang, C., Hindle, A., Adams, B., & Hassan, A. E. (2015). What do programmers know about the energy consumption of software?. IEEE Software.](https://ieeexplore.ieee.org/document/7155416)
+5. [Lago, P. (2015). A Master Program on Engineering Energy-aware Software.](http://dare.ubvu.vu.nl/bitstream/handle/1871/52437/A?sequence=1)
+6. [Lago, P., Koçak, S. A., Crnkovic, I., & Penzenstadler, B. (2015). Framing sustainability as a property of software quality. Communications of the ACM, 58(10), 70-78.](https://research.vu.nl/en/publications/framing-sustainability-as-a-property-of-software-quality)
+7. [Pang, C., Hindle, A., Adams, B., & Hassan, A. E. (2015). What do programmers know about the energy consumption of software?. IEEE Software.](https://ieeexplore.ieee.org/document/7155416)
 
 ## Additional References
 
